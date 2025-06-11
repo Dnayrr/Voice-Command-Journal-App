@@ -1,17 +1,17 @@
 # 🎙️ Voice Command Journal App
 
-A voice-powered journaling web app that allows users to record their thoughts using only speech. Entries are saved and displayed in real-time using a modern MERN stack: **MongoDB**, **Express**, **React**, and **Node.js**.
+Aplikasi web untuk mencatat jurnal harian dengan perintah suara. Dibuat menggunakan **MongoDB**, **Express**, **React**, dan **Node.js**.
 
 ---
 
-## ✨ Features
+## ✨ Fitur
 
-- 🎤 Record daily journal entries using voice commands
-- 📄 Entries are saved with timestamps
-- ☁️ Stored in MongoDB (cloud database)
-- 🌐 Simple, accessible UI built with React
-- 🔁 Realtime fetch of past entries
-- 🔐 CORS-ready backend with RESTful API
+- 🎤 Rekam catatan jurnal harian menggunakan perintah suara
+- 📄 catatan disimpan dengan stempel waktu
+- ☁️ Disimpan di MongoDB (basis data cloud)
+- 🌐 UI yang sederhana dan mudah diakses yang dibuat dengan React
+- 🔁 Pengambilan catatan masa lalu secara realtime
+- 🔐 Backend yang siap untuk CORS dengan RESTful API
 
 ---
 
